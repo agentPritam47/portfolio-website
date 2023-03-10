@@ -10,7 +10,7 @@ with col1:
 
 with col2:
     st.title("Pritam Das")
-    content = """hello there i am pritam a python programmer, currently studing at JIS College
+    content = """Hello there i am pritam a python programmer, currently studing at JIS College.
     My stream is computer science engineering. I live in a beautiful city named kanchrapara which is located at wesbengal in India.
     I love to create such things that help people in their day to day life."""
     st.info(content)
